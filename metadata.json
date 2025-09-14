@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Bot",
+  "description": "An AI-powered chatbot system designed to answer health-related queries and help users find nearby doctors, clinics, and hospitals. This application simulates user and admin roles for a comprehensive healthcare support experience.",
+  "requestFramePermissions": []
+}
